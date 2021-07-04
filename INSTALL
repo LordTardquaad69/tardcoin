@@ -1,0 +1,9 @@
+Building Tardcoin
+
+See doc/readme-qt.rst for instructions on building Tardcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tardcoin.
+
+See doc/build-*.txt for instructions on building tardcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tardcoin.
